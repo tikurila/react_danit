@@ -1,0 +1,27 @@
+
+.head{
+    margin-top: 80px;
+}
+.nav-head-ms{
+font-size: 30px;
+font-weight: 700;
+margin-left: -380px;
+margin-right: 280px;
+}
+.nav-head{
+    margin-left: 120px;
+
+}
+
+.container-nav{
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 510px;
+}
+
+span{
+    & a{
+        text-decoration: none;
+        color: #000;
+    }
+}

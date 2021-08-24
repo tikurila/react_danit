@@ -1,0 +1,113 @@
+.bg-black {
+    background-color: #000;
+    width: 1108px;
+    margin-left: 122px;
+    height: 130px;
+    margin-top: -40px;
+}
+
+.bg-white {
+    background-color: rgb(255, 255, 255);
+    width: 850px;
+    margin-left: 129px;
+    height: 130px;
+}
+
+.word-musica {
+    font-weight: 700;
+    background-color: rgb(231, 209, 87);
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.welcome-text {
+    margin-left: -300px;
+    font-weight: 700;
+    position: absolute;
+    margin-top: 75px;
+    color: #000;
+    font-size: 25px;
+}
+
+.btn_one {
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    font-weight: 700;
+    border-radius: 4%;
+    border: none;
+    background-color: rgb(58, 58, 58);
+    margin-left: 1px;
+    width: 240px;
+    height: 90px;
+    & span{
+        position: absolute;
+        margin-top: -30px;
+        margin-left: -80px;
+        & img{
+            position: absolute;
+            margin-left: -37px;
+            margin-top: -11px;
+            width: 35px;
+            height:35px;
+        }
+    }
+}
+
+.btn_two {
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    font-weight: 700;
+    border-radius: 4%;
+    border: none;
+    background-color: rgb(194, 37, 37);
+    margin-left: 65px;
+    width: 240px;
+    height: 90px;
+    & span{
+        position: absolute;
+        margin-top: -30px;
+        margin-left: -70px;  
+       
+        & img{
+            position: absolute;
+            margin-left: -40px;
+            margin-top: -10px;
+            width: 35px;
+            height:30px;
+        }
+        
+    }
+}
+.btn_two{
+    & p{
+        margin-left: 27px;
+        margin-top: -4px;
+        position: absolute;
+        color: rgb(0, 0, 0);
+    } 
+}
+.btn_three {
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    font-weight: 700;
+    border-radius: 4%;
+    border: none;
+    background-color: rgb(58, 58, 58);
+    margin-left: 65px;
+    width: 240px;
+    height: 90px;
+    & span{
+        position: absolute;
+        margin-top: -30px;
+        margin-left: -70px;
+     
+        & img{
+            position: absolute;
+            margin-left: -43px;
+            margin-top: -15px;
+            width: 45px;
+            height:45px;
+        }
+
+    }
+}

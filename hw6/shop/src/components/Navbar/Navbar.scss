@@ -1,0 +1,26 @@
+.bac_nav {
+    background-color: rgb(51, 51, 51);
+    height: 35px;
+    width: 100%;
+    margin-top: -18px;
+}
+
+.icon {
+    margin-left: -800px;
+
+    & img {
+        margin-left: 20px;
+    }
+}
+
+.log_reg {
+    color: rgb(255, 255, 255);
+    margin-top: -28px;
+    position: absolute;
+    margin-left: 300px;
+    & a{
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+    }
+}
+

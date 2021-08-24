@@ -1,0 +1,56 @@
+  .input-text {
+      font-family: 'Times New Roman', Times, serif;
+      font-style: italic;
+      font-size: 17px;
+      width: 300px;
+      padding: 12px;
+      margin-left: 20px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      resize: vertical;
+  }
+
+  .age {
+      margin-left: 60px;
+  }
+
+  .adress {
+      margin-left: 40px;
+  }
+
+  .number {
+      margin-left: 30px;
+  }
+
+  label {
+
+      font-family: 'Times New Roman', Times, serif;
+      font-style: italic;
+      font-weight: 700;
+      padding: 12px 12px 12px 0;
+      display: inline-block;
+  }
+
+  .checkout {
+      font-family: 'Times New Roman', Times, serif;
+      font-style: italic;
+      font-size: 17px;
+      margin-right: 290px;
+      background-color: #202422;
+      color: white;
+      padding: 12px 20px;
+      border: none;
+      margin-top: -210px;
+
+      border-radius: 4px;
+      cursor: pointer;
+      float: right;
+  }
+
+  
+  .error {
+      font-weight: 700;
+      transform: translateX(-250px);
+      color: rgb(161, 16, 16);
+  }

@@ -1,0 +1,31 @@
+.con_cart2{
+    // transform: ;
+    transform: translateY(-250px);
+}
+.text_cont2{
+    // position: absolute;
+    transform: translateY(240px);
+    width: 230px;
+    margin-left: 55px;
+}
+
+.price2{
+    position: absolute;
+
+    transform: translateY(235px);
+    margin-left: -125px;
+}
+
+hr{
+    margin-top: 20px;
+}
+
+.btn_chek{
+    margin-top: -33px;
+    border: none;
+    width: 200px;
+    height: 50px;
+    color: beige;
+    font-size: 21px;
+    background-color: rgb(42, 42, 42);
+}

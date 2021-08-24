@@ -1,0 +1,142 @@
+.modal {
+  position: fixed;
+  width: 600px;
+  height: 300px;
+  margin-left: 350px;
+  margin-top: 75px;
+  box-shadow: 0 10px 30px 0 rgba(127, 127, 127, 0.3);
+  background: rgb(180, 75, 75);
+}
+.modal_two {
+  position: fixed;
+  width: 600px;
+  height: 300px;
+  margin-left: 350px;
+  margin-top: -15px;
+  box-shadow: 0 10px 30px 0 rgba(127, 127, 127, 0.3);
+  background: rgb(105, 14, 209);
+}
+.backgr{ 
+  position: absolute;
+  width: 1916px;
+  height:626px;
+  margin-top: -80px;
+  margin-left: -600px;
+  background-color: rgba(0, 0, 0, 0.315);
+}
+
+.backgr_two{ 
+  position: absolute;
+  width: 1916px;
+  height:626px;
+  margin-top: -167px;
+  margin-left: -600px;
+  background-color: rgba(0, 0, 0, 0.315);
+}
+
+.title_mod {
+  font-size: 25px;
+  padding-top: 30px;
+  margin-top: -80px;
+  padding-left: 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(177, 28, 28);
+  height: 60px;
+}
+.title_mod_two {
+  font-size: 25px;
+  padding-top: 30px;
+  margin-top: -80px;
+  padding-left: 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(64, 2, 100);
+  height: 60px;
+}
+.content_modal {
+  color: rgb(248, 248, 248);
+  font-size: 18px;
+  margin-left: 30px;
+  margin-right: 30px;
+  line-height: 2.5;
+  text-align: center;
+}
+
+.btn_ok {
+  width: 120px;
+  height: 50px;
+  background-color: rgb(136, 23, 23);
+  color: rgb(255, 255, 255);
+  border: 0px;
+  margin-left: 160px;
+}
+.btn_ok_two {
+  width: 120px;
+  height: 50px;
+  background-color:rgb(64, 2, 100);
+  color: rgb(255, 255, 255);
+  border: 0px;
+  margin-left: 160px;
+}
+.btn_ok:hover {
+  background-color: rgb(90, 5, 5);
+
+}
+.btn_ok_two:hover {
+  background-color:  rgba(73, 0, 156, 0.726);
+
+}
+.btn_cancel {
+  width: 120px;
+  height: 50px;
+  background-color: rgb(136, 23, 23);
+  color: rgb(255, 255, 255);
+  border: 0px;
+  margin-left: 20px;
+}
+.btn_cancel_two {
+  width: 120px;
+  height: 50px;
+  background-color:rgb(64, 2, 100);
+  color: rgb(255, 255, 255);
+  border: 0px;
+  margin-left: 20px;
+}
+.btn_cancel:hover {
+  background-color: rgb(90, 5, 5);
+
+}
+.btn_cancel_two:hover {
+  background-color:  rgba(73, 0, 156, 0.726);
+
+}
+.btn_x {
+  width: 50px;
+  height: 50px;
+  background-color: rgba(255, 255, 255, 0);
+  color: rgb(2, 2, 2);
+  border: 0px;
+  margin-left: 500px;
+  margin-top: -10px;
+  position: absolute;
+  font-size: 25px;
+}
+.btn_x_two {
+  width: 50px;
+  height: 50px;
+  background-color: rgba(255, 255, 255, 0);
+  color: rgb(2, 2, 2);
+  border: 0px;
+  margin-left: 500px;
+  margin-top: -10px;
+  position: absolute;
+  font-size: 25px;
+}
+.btn_x:hover {
+  background-color: rgb(90, 5, 5);
+
+}
+
+.btn_x_two:hover {
+  background-color:  rgb(105, 14, 209);
+
+}
